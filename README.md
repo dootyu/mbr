@@ -1,7 +1,7 @@
 
 ## v2ray-heroku
 
-[![](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/dootyu/mbr/Hreoku.git)https://heroku.com/deploy?template=
+[![](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/dootyu/mbr
 
 ## 注意事项
 ### heroku上部署v2ray
