@@ -1,7 +1,7 @@
 
 ## v2ray-heroku
 
-[![](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/dootyu/mbr/Hreoku.git)https://heroku.com/deploy?template=
+[![](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/dootyu/mbr
 
 ## 注意事项
 ### heroku上部署v2ray
@@ -203,7 +203,7 @@ export default {
     加密: none
     伪装域名: yourName.workers.dev
     传输类型: ws
-    路径: /app
+    路径: /
     传输层安全：tls   跳过证书验证：false
     SNI：yourName.workers.dev
 ```
